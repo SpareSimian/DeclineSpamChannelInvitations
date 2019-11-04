@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: Decline Spam Channel Invitations
+## Version: 0.1
+## Author: SpareSimian
+## Notes: MIT License
+## X-eMail: SpareSimian+DeclineSpamChannelInvitations@SewingWitch.com
+
+DeclineSpamChannelInvitations.lua
